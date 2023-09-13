@@ -1,0 +1,5 @@
+C:\Users\Bali Swann\Documents\Cours BUT\3eme ANNEE\Qualité de developpemnt\TP 1\TP1\TP1\obj\Debug\net6.0\TP1.csproj.AssemblyReference.cache
+C:\Users\Bali Swann\Documents\Cours BUT\3eme ANNEE\Qualité de developpemnt\TP 1\TP1\TP1\obj\Debug\net6.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bali Swann\Documents\Cours BUT\3eme ANNEE\Qualité de developpemnt\TP 1\TP1\TP1\obj\Debug\net6.0\TP1.AssemblyInfoInputs.cache
+C:\Users\Bali Swann\Documents\Cours BUT\3eme ANNEE\Qualité de developpemnt\TP 1\TP1\TP1\obj\Debug\net6.0\TP1.AssemblyInfo.cs
+C:\Users\Bali Swann\Documents\Cours BUT\3eme ANNEE\Qualité de developpemnt\TP 1\TP1\TP1\obj\Debug\net6.0\TP1.csproj.CoreCompileInputs.cache
